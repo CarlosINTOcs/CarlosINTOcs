@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://pixabay.com/gifs/newton-pendulum-toy-spheres-1119/" align="center" style="width: 100%" />
+<img src="https://cdn.pixabay.com/animation/2022/10/11/23/03/23-03-06-809_512.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -77,7 +77,7 @@
 <a href="https://github.com/CarlosINTOcs" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/XINHELIU" target="_blank">
+<a href="https://linkedin.com/in/XINHE (Carlos) LIU" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -91,14 +91,9 @@
 
 <br/>  
 
-
-
-
   
 
 <br/>  
 
 
 <br />
-
-
